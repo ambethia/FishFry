@@ -72,8 +72,3 @@ SlashCmdList.FISHFRY = function(msg)
     print("Fish Fry: Off hand set to " .. FishFryDB.offHand)
   end
 end
-
-SLASH_HELLOWORLD1, SLASH_HELLOWORLD2 = '/hiw', '/hellow'; -- 3.
-function SlashCmdList.HELLOWORLD(msg, editbox) -- 4.
- print("Hello, World!");
-end
