@@ -1,0 +1,8 @@
+## Interface: 40000
+## Title: Fish Fry
+## Author: Jason L Perry
+## Notes: Utility for swapping your fishing pole for your weapons when entering combat.
+## Version: 1.0
+## SavedVariablesPerCharacter: FishFryDB
+
+FishFry.lua
